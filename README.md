@@ -2,6 +2,4 @@
 
 This is really awesome
 
-My edit
-
-Update readme again
+Updates made on master before rebase
